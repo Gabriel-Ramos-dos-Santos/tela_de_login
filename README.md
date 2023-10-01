@@ -10,8 +10,8 @@
   <a href="https://github.com/danielrodrigues-dv/moments-angular/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/angular-moments?style=flat-square&">
   </a>
-  <a href="https://github.com/danielrodrigues-dv">
-    <img alt="Feito por danielrodrigues-dv" src="https://img.shields.io/badge/feito%20por-Daniel%20Rodrigues-%237519C1?style=flat-square&">
+  <a href="https://github.com/Gabriel-Ramos-dos-Santos ">
+    <img alt="Feito por Gabriel-Ramos-dos-Santos " src="https://img.shields.io/badge/feito%20por-Gabriel%20 Santos-%237519C1?style=flat-square&">
   </a>
 </p>
 
@@ -34,7 +34,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
- Uma aplicativo mobile que gerência todo o fluxo de um estacionamento.
+Um programa CRUD, que cadastra,incluir,altera e excluir desenvolvido em python.
 
 ---
 

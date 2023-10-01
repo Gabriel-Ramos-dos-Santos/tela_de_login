@@ -1,4 +1,4 @@
-<h1 align="center">Parking Management</h1>			
+<h1 align="center">TELA DE LOGIN </h1>			
 <br>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/moments-angular?style=flat-square&&color=%2304D361" />
@@ -159,7 +159,7 @@ Os seguintes pacotes foram instalados para construção do projeto:
 <td><a href="https://github.com/danielrodrigues-dv">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41621213?v=4" width="100px;" alt="img-daniel"/>
  <br>
-  <sub><b><p>Daniel Rodrigues</p></b></sub></a>
+  <sub><b><p>Gabriel Ramos dos Santos</p></b></sub></a>
  <br /></td>
  <td><a href="https://github.com/barberino"> 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/2354115?v=4" width="100px;" alt="img-bruno"/>
